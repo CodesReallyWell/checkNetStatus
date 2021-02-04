@@ -1,8 +1,8 @@
 Import-Module PoshGram
 
 # Bot Info
-$chat_ID = "-467922459"
-$token = "1131140251:AAFtlJXLDOjqiUu2d_1LLvnhgU1XLXjQUgQ"
+$chat_ID = ""
+$token = ""
 
 # AP Info
 $accessPoints = @("10.10.1.5", "10.10.1.4", "10.10.1.3","10.10.1.1", "google.com")
